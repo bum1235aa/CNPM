@@ -1,0 +1,9 @@
+C:\Users\ADMIN\source\repos\Finals\Services\obj\Debug\Services.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Finals\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Finals\Services\bin\Debug\Services.dll
+C:\Users\ADMIN\source\repos\Finals\Services\bin\Debug\Services.pdb
+C:\Users\ADMIN\source\repos\Finals\Services\bin\Debug\Models.dll
+C:\Users\ADMIN\source\repos\Finals\Services\bin\Debug\Models.pdb
+C:\Users\ADMIN\source\repos\Finals\Services\obj\Debug\Services.csproj.CopyComplete
+C:\Users\ADMIN\source\repos\Finals\Services\obj\Debug\Services.dll
+C:\Users\ADMIN\source\repos\Finals\Services\obj\Debug\Services.pdb
