@@ -25,5 +25,26 @@ namespace Services
         {
             conn = new SqlConnection(GetConnectionString());
         }
+
+        public Boolean Login(String username, String password)
+        {
+            using (conn)
+            {
+                String query = "SELECT * FROM nhan_vien WHERE Username = @username AND Password = @password";
+                SqlCommand cmd = new SqlCommand(query, conn);
+
+                cmd.Parameters.Add("@username", username);
+                cmd.Parameters.Add("@password", password);
+
+                conn.Open();
+                SqlDataReader reader = cmd.ExecuteReader();
+                if (reader != null)
+                {
+                    return true;
+
+                }
+                return false;
+            }
+        }
     }
 }

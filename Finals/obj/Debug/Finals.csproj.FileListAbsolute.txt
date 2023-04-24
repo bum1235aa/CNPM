@@ -20,3 +20,5 @@ C:\Users\ADMIN\source\repos\Finals\Finals\obj\Debug\Finals.exe
 C:\Users\ADMIN\source\repos\Finals\Finals\obj\Debug\Finals.pdb
 C:\Users\ADMIN\source\repos\Finals\Finals\obj\Debug\Finals.Form1.resources
 C:\Users\ADMIN\source\repos\Finals\Finals\obj\Debug\Finals.KhachHang.resources
+C:\Users\ADMIN\source\repos\Finals\Finals\obj\Debug\Finals.HoaDon.resources
+C:\Users\ADMIN\source\repos\Finals\Finals\obj\Debug\Finals.Login.resources

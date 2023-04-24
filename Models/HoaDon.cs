@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace Models
 {
-    internal class HoaDon
+    public class HoaDon
     {
+        public int id { get; set; }
+        public DateTime date { get; set; }
+        public string state { get; set; }
+        public int khachHangId { get; set; }
     }
 }
